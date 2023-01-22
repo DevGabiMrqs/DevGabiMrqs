@@ -27,3 +27,5 @@
  
   <a href = "mailto:gabrielli_1998@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href=https://br.linkedin.com/in/gabrielli-marques-carvalho-4048841b7 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ 
