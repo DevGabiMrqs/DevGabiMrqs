@@ -1,7 +1,7 @@
 ## Olá, eu sou a Gabrielli!!
 
 
-- 🔭 Hoje estou trabalhando com front-end
+- 🔭 Hoje estou trabalhando como front-end
 - 🌱 Estou estudando JavaScript, React.JS e React Native 
 - 📫 Contate-me no e-mail: gabrielli_1998@outlook.com
 - 😄 Pronomes: ela/dela
