@@ -28,4 +28,19 @@
   <a href = "mailto:gabrielli_1998@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href=https://br.linkedin.com/in/gabrielli-marques-carvalho-4048841b7 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  
+  <div>
+  <a href="https://github.com/DevGabiMrqs">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DevGabiMrqs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabiMrqs&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+  
+  </div>
+
+  ![Snake animation](https://github.com/DevGabiMrqs/DevGabiMrqs/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
  
