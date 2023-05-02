@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou trabalhando como front-end
-- 🌱 Estou estudando JavaScript, React.JS e React Native 
+- 🌱 Estou estudando JavaScript, TypeScript, React.JS e React Native 
 - 📫 Contate-me no e-mail: gabrielli_1998@outlook.com
 - 😄 Pronomes: ela/dela
 
